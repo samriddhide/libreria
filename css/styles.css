@@ -1,0 +1,205 @@
+body {
+  font-family: Montserrat;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat";
+  font-weight: 900;
+}
+
+p {
+  color: #8F8F8F;
+  font-family: "Montserrat";
+}
+
+.sample-book {
+  margin-bottom: 20px;
+  width: 35%;
+}
+
+.book-name {
+  color: black;
+}
+
+.big-heading {
+  font-family: "Montserrat";
+  color: #DCD7C9;
+  font-weight: 900;
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+.section-heading {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
+.feature-box {
+  padding: 5%;
+}
+
+.icon {
+  color: #A27B5C;
+  margin-bottom: 1rem;
+}
+
+.cart-icon:hover {
+  color: #A27B5C;
+}
+
+.icon:hover {
+  color: #2C3639;
+}
+
+.coverimg {
+  width: 400px;
+  margin-right: 50px;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-weight: 300;
+  font-size: 2rem;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.pc {
+  padding: 3% 2%;
+}
+
+.template {
+  padding: 3% 2%;
+}
+
+.peek-img {
+  width: 30%;
+}
+
+.book-title {
+  font-family: Montserrat;
+  font-weight: 600;
+  color: #FFF;
+}
+
+.book-name {
+  padding-top: 20px;
+  color: #FFF;
+}
+
+.btn-space {
+  margin-right: 4px;
+}
+
+#title {
+  background-color: #2C3333;
+  text-align: left;
+}
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+#testimonials {
+  background-color: #2C3333;
+  color: #DCD7C9;
+}
+
+.testimonial-text {
+  font-size: 2rem;
+  line-height: 1.5;
+  padding: 7% 15%;
+}
+
+.cp-color {
+  color: #FFF;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.social-icon:hover {
+  color: #A27B5C;
+}
+
+#books-carousel {
+  padding: 7% 15%;
+  background-color: #2C3333;
+  color: #DCD7C9;
+}
+
+#sugg-carousel {
+  background-color: #FFF;
+}
+
+#pricing {
+  padding: 80px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+  text-align: center;
+}
+
+#press {
+  background-color: #2C3333;
+  padding-bottom: 3%;
+}
+
+.logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+
+.carousel-item {
+  padding: 2%;
+}
+
+.test-img {
+  width: 20%;
+  border-radius: 100%;
+  margin: 50px;
+}
+
+.cart {
+  color: #FFF;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+#cta {
+  background-color: #FFF;
+  color: #fff;
+  padding: 7% 15%;
+}
+
+.cta-heading {
+  color: #1F1F1F;
+  font-family: Montserrat;
+  font-weight: 900;
+  height: 1.5;
+  font-size: 3.5rem;
+}
+
+#footer {
+  padding: 2% 10%;
+  background-color: #2C3333;
+  color: #FFF;
+}
+
+@media screen and (max-width : 1050px) {
+  #title {
+    text-align: center;
+  }
+}
