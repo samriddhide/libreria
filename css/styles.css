@@ -115,6 +115,7 @@ p {
 }
 
 .testimonial-text {
+  color: #FFF;
   font-size: 2rem;
   line-height: 1.5;
   padding: 7% 15%;
@@ -135,7 +136,7 @@ p {
 #books-carousel {
   padding: 7% 15%;
   background-color: #2C3333;
-  color: #DCD7C9;
+  color: #FFF;
 }
 
 #sugg-carousel {
